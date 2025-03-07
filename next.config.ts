@@ -4,4 +4,4 @@ const nextConfig: NextConfig = {
   basePath: "/shop",
 };
 
-export default nextConfig;
+module.exports = nextConfig;
